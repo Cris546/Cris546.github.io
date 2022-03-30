@@ -17,6 +17,7 @@ function App() {
           <Route path='/portfolio' element={<Portfolio/>} />
           <Route path='/contact' element={<Contact/>} />
         </Switch>
+        
       </Router>
       
       
