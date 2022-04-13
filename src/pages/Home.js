@@ -14,6 +14,7 @@ function Home() {
       </div>
       <div className='right'>
         <div className='right-wrapper'>
+          
           <h2 className='right-intro'>The name's</h2>
           <h1 className='right-name'>Cristobal Cortez</h1>
           <div className='right-title'>
@@ -27,7 +28,9 @@ function Home() {
             </div>
           </div>
           <div className='right-desc'>
-            Words Words Words Words Words Words Words Words Words Words Words Words
+            Backend Developer with some Frontend experience. My main focus is 
+            creating different software tools/programs towards automation, database creation,
+            network applications, etc. 
             
           </div>
         </div>

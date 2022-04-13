@@ -12,14 +12,17 @@
 }
 
 .left{
-    flex: 0.5;
+    flex: 0.3;
 
     overflow: hidden;
 }
 
 .right{
-    flex: 0.5;
-    /* background-color: black; */
+    flex: 0.7;
+    overflow: hidden;
+    
+    
+    
     
 }
 
@@ -46,7 +49,10 @@ img {
 
 .right-wrapper{
     padding: 50px;
+    
+    
 }
+
 
 .right-intro {
     font-size: 30px;
