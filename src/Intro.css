@@ -1,0 +1,23 @@
+.introGrid{
+    border: 5px;
+    border-style: solid;
+    width: 100%;
+    height: 50%;
+    border-color: #FBF7F7;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+
+.introName{
+    color: #FE1F26;
+    font-size: 50px;
+    padding-left: 30px;
+    
+}
+
+.introInfo{
+    display: inline-block;
+    width: 500px;
+}
+
