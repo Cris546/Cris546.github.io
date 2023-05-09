@@ -7,17 +7,28 @@
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 50px;
-}
-
-.introName{
-    color: #FE1F26;
-    font-size: 50px;
-    padding-left: 30px;
+    display: flex;
     
 }
 
-.introInfo{
-    display: inline-block;
-    width: 500px;
+.introGridLeft{
+    flex: 75%;
 }
+
+.introGridRight{
+    flex: 25%;
+}
+
+.introGridName{
+    color: #FE1F26;
+    font-size: 70px;
+}
+
+.introGridDesc{
+    display: inline-block;
+    width: 400px;
+    padding-left: 29px;
+}
+
+
 

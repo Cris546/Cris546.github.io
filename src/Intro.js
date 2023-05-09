@@ -3,18 +3,20 @@ import './Intro.css'
 function Intro(){
     return(
         <div className="introGrid">
-            <div className='introInfo'>
-                <div className='introName'>
+            <div className="introGridLeft">
+                <div className="introGridName">
                     Cristobal Cortez
                 </div>
-                <div className='introInfo'>
-                I’m a software developer with major experience in backened development. 
-                I strive to develop tools and applications to improve the user experience. 
+                <div className="introGridDesc">
+                    The brown fox jumped over the moon. The brown fox jumped over the moon.
                 </div>
             </div>
-            <div className='introPic'>
-
+            <div className="introGridRight">
+                <div className="introGridPhoto">
+                    photo goes here
+                </div>
             </div>
+            
         </div>
     )
 }
